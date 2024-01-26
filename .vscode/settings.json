@@ -1,0 +1,8 @@
+{
+    "code-runner.executorMap": {
+        "c": "cd $dir && mingw32-make && ./caches.exe",
+    },
+    "files.associations": {
+        "stdlib.h": "c"
+    }
+}
