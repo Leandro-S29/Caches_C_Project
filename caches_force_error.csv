@@ -1,0 +1,5 @@
+code; name; state; owner; latitude; longitude; kind; size; difficulty; terrain; status; hidden_date; founds; not_founds; favourites; altitude
+GC110VR;Senhora do Monte [Leiria];LEIRIA;cc_pt;39.689933;error;TRADITIONAL;REGULAR;2;2;AVAILABLE;2007/02/18;601;1;2;281
+GC13MBB;Fogo;VILA REAL;Reino Maravilhoso;41.172633;-7.67215;MULTI;REGULAR;2;2;AVAILABLE;2007/06/14;95;2;4;616
+GC13JZ6;Monte S. Joao de Valinhas [Arouca];AVEIRO;daraopedal;40.93585;-8.263967;TRADITIONAL;SMALL;2;2.5;AVAILABLE;2007/06/08;93;3;1;429
+GCNEHE;DP5- Nutty Toon Cache;LISBOA;danieloliveira;38.754033;-9.431683;TRADITIONAL;SMALL;3.5;4.5;AVAILABLE;2005/04/11;204;15;32;-9999999
